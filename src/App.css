@@ -1,10 +1,15 @@
-.App {
-  text-align: center;
+.App{
+  background-color: #282c34;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
+
+}
+.hawk{
+  height: 40vmin;
+  
 }
 
 @media (prefers-reduced-motion: no-preference) {
